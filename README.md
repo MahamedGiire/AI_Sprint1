@@ -3,13 +3,13 @@
 ## Leden
 Groep: SG-30A
 
-Leden:
+Lid + Studentennummer:
 
-- Mahamed 
-- Emma 
-- Berat
-- Diederick
-- Mehmet
+- Mahamed - 1786713
+- Emma - 1784436
+- Berat - 1703146
+- Diederick - 1763864
+- Mehmet - 1782110
 
 
 
