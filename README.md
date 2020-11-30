@@ -20,9 +20,8 @@ De data moet ook worden gesorteerd zodat we hier later verschillende opdrachten 
 
 ## Bestanden 
 Layout.py bestand is ons GUI. Hier vindt U een layout die wij gaan uitbouwen voor onze applicatie.
+AI_Sprint1.py bestand is onze json sorteer methode, in dat bestand vindt U onze sorteer functie.
 
 # Instructies
 
-Een voor buitenstaanders begrijpelijke beschrijving van het doel van het project;
-De namen, studentnummers en usernames van alle leden van de groep;
-Instructies voor de gebruiker hoe de code kan worden uitgevoerd, zodat de docenten de genoemde GUI te zien krijgen.
+Zowel het bestand 
