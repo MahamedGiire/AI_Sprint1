@@ -24,4 +24,6 @@ AI_Sprint1.py bestand is onze json sorteer methode, in dat bestand vindt U onze 
 
 # Instructies
 
-Zowel het bestand 
+Zowel het bestand Layout.py als AI_Sprint1.py hebben een json bestand nodig om de data op te kunnen halen.
+
+Download allebeide bestanden en plaats ze in dezelfde map, zet vervolgens de volledige json map in hetzelfde mapje neer.
