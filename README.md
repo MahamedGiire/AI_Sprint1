@@ -1,6 +1,6 @@
 # AI Sprint1
 
-# Doel
+## Doel
 
 Het doel van sprint-1 AI was om een begin te maken aan de GUI en om alvast een beeld te krijgen van de steam.api.
 De data moet ook worden gesorteerd zodat we hier later verschillende opdrachten mee uit kunnen voeren.
